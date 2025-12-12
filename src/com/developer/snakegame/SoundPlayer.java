@@ -7,3 +7,4 @@ public class SoundPlayer {
         Toolkit.getDefaultToolkit().beep();
     }
 }
+
