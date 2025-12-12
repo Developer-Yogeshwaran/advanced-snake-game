@@ -27,7 +27,7 @@ Perfect for learning Java GUI, OOP, and event handling.
 
 ## ⚡ How to Run
 
-### Option 1: Compile and run from source
+### Compile and run from source
 1. Open terminal in project root
 2. Compile all Java files:
 
